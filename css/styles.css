@@ -1,0 +1,16 @@
+.sidebar {
+  margin: 12px;
+  float: left;
+  background-color: rgb(3, 3, 78);
+  color: rgba(148, 148, 4, 0.76);
+  box-sizing: border-box; 
+}
+
+.main {
+  float: left;
+  margin: 12px;
+  border: 10px solid red;
+  padding: 20px;
+  background-color: pink;
+  box-sizing: border-box; 
+} 
